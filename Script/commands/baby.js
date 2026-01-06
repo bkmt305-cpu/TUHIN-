@@ -5,12 +5,12 @@ module.exports.config = {
  name: "baby",
  version: "1.0.3",
  hasPermssion: 0,
- credits: "ULLASH",
+ credits: "TUHIN",
  description: "Cute AI Baby Chatbot | Talk, Teach & Chat with Emotion ☢️",
  commandCategory: "simsim",
  usages: "[message/query]",
  cooldowns: 0,
- prefix: false
+ prefix: falseULLASH
 };
 
 module.exports.run = async function ({ api, event, args, Users }) {
